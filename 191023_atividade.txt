@@ -1,0 +1,50 @@
+
+ATIVIDADE EM SALA DE AULA
+
+exemplo 1
+exemplo_modelo1.html
+-------------------------------------
+------- CONTEUDO DO SITE ------------
+-------------------------------------
+Cores (cores usadas no site)
+Disposição de conteúdo (links, bannes)
+Preferências do internalta conforme idade e conteúdo (dados)
+
+
+
+
+
+
+
+Exemplo 2
+Exemplo_modelo2.html
+-----------------------------
+------- Mundo WEB -----------
+-----------------------------
+WEB
+ Historia (fatos)
+   
+
+Navegadores
+ Evolução 
+ Tipos
+Sites (Criação de site)
+   Programas usados
+	(listar algumas IDE´s)
+   Tripe da programação
+	HTML
+	CSS
+	Javascript
+
+Tipos de Site
+  Loja virtual
+  Pesquisa
+  Conteúdo 
+  Institucional
+  Entreterimento
+  ...
+ 	
+  
+
+
+
